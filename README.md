@@ -1,2 +1,2 @@
 # Matrix
-This homework is already finished, just for showing off
+This homework is already finished, just for showing off.
