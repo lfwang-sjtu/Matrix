@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Snoopy/CLionProjects/OOP1-matrix/BasicTest.cpp
+iostream
+-
+utility
+-
+string
+-
+functional
+-
+vector
+-
+unistd.h
+-
+matrix.hpp
+C:/Users/Snoopy/CLionProjects/OOP1-matrix/matrix.hpp
+
+C:/Users/Snoopy/CLionProjects/OOP1-matrix/matrix.hpp
+cstddef
+-
+initializer_list
+-
+utility
+-
+iterator
+-
+string
+-
+algorithm
+-
+iostream
+-
+

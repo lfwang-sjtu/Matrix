@@ -3,6 +3,7 @@
 #include <iostream>
 #include <sstream>
 #include <string>
+#include <functional>
 
 using namespace std;
 using sjtu::Matrix;

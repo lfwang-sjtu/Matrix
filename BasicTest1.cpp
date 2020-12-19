@@ -283,10 +283,6 @@ std::pair<bool, std::string> testOperations()
 		auto f = b * a.tran();
 		if (typeid(f(0, 0)) != typeid(b(0, 0)))
 			return WA("*");
-		
-		f = a.tran() * b;
-		if (typeid(f(3,3)) != typeid(50.0) || (int)(f(3,3)) != 50)
-			return WA("*");
 	} catch (...)
 	{
 		return RE("+ / - / *");
@@ -477,5 +473,6 @@ int main()
 			std::cout << "FAIL. " << information << std::endl;
 		}
 	}
+
 	return 0;
 }

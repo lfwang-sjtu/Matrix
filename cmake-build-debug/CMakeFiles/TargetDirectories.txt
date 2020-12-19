@@ -1,0 +1,3 @@
+C:/Users/Snoopy/CLionProjects/OOP1-matrix/cmake-build-debug/CMakeFiles/OOP1_matrix.dir
+C:/Users/Snoopy/CLionProjects/OOP1-matrix/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Snoopy/CLionProjects/OOP1-matrix/cmake-build-debug/CMakeFiles/rebuild_cache.dir
